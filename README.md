@@ -49,6 +49,10 @@ output:
 
 ###table
 <table>
- {content}
+ <tr>
+  <td>new</td>
+  <td>new2</td>
+  <td>new3</td>
+ </tr>
 </table>
  
